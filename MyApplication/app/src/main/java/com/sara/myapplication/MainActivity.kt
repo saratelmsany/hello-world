@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
         // another comment line for learning merging
         // comment line for learning purposes
 
+        // commit from githup
+
         
     }
 }
